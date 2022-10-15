@@ -1,0 +1,46 @@
+body{
+    background-color:
+    #F7E915 
+}
+.container{
+    display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+h1{
+    font-family: 'Sen', sans-serif;
+    color: #E9132D ;
+}
+
+label{
+    font-family: 'Sen', sans-serif;
+    color: #E9132D ;
+}
+
+input{
+    font-family: 'Sen', sans-serif;
+}
+
+button
+{
+    font-family: 'Sen', sans-serif;
+}
+
+#subtittle{
+    text-align: center;
+    color: #E9132D 
+}
+
+.form-label{
+    font-size: 17px;
+}
+
+#view{
+    color: #E9132D ;
+}
+
+#totalCuenta {
+    color: #E9132D 
+}
